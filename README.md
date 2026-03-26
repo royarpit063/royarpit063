@@ -41,7 +41,9 @@
 <p>📧 Email: <a href="mailto:royarpit063@gmail.com">royarpit063@gmail.com</a></p>
 
 <h2>🌐 Connect With Me</h2>
-<p>(Add your LinkedIn profile link here)</p>
+<p>  <a href="https://www.linkedin.com/in/roy-arpit-a2531a3a8" target="_blank">
+    www.linkedin.com/in/roy-arpit-a2531a3a8
+  </a></p>
 
 <hr>
 
